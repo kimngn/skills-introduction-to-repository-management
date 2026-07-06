@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @kimngn
+/src/backend/database.py      @kimngn
+/src/backend/routers/auth.py  @kimngn
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @kimngn
